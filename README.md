@@ -37,7 +37,7 @@ Monthly wine sales data is used to evaluate how well different statistical model
 
 ---
 
-## Technical Approach
+## [Technical Approach](https://github.com/qfattah/wine-sales-time-series-forecasting/blob/main/wine-sales-time-series-forecasting.ipynb)
 
 ### 1. Time Series Preparation
 
